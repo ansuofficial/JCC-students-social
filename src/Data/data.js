@@ -24,21 +24,21 @@ export const users = [
     img: "images/user-4.jpg",
     following: false,
   },
-  ,
-  {
-    name: "Ismaila Sarr",
-    img: "images/user-5.jpg",
-    following: true,
-  },
-  {
-    name: "Isha Fofana",
-    img: "images/user-2.jpg",
-    following: false,
-  },
-  {
-    name: "Fatima Jammeh",
-    img: "images/user-3.jpg",
-    following: false,
-  },
+  // ,
+  // {
+  //   name: "Ismaila Sarr",
+  //   img: "images/user-5.jpg",
+  //   following: true,
+  // },
+  // {
+  //   name: "Isha Fofana",
+  //   img: "images/user-2.jpg",
+  //   following: false,
+  // },
+  // {
+  //   name: "Fatima Jammeh",
+  //   img: "images/user-3.jpg",
+  //   following: false,
+  // },
 
 ];

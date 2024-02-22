@@ -148,13 +148,20 @@ input[type="search"]::-webkit-search-cancel-button {
   color: rgb(14 165 233);
 }
 
-@media (max-width: 640px) {
+.copyright {
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 640px) { 
+  body {
+    padding: 2rem;
+  }
   .friend-item img {
-    max-width: 3.5rem;
+    max-width: 3.2rem;
   }
 
   .friend-item .friend-name {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
   }
 }
 
