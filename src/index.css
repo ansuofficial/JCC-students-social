@@ -154,14 +154,14 @@ input[type="search"]::-webkit-search-cancel-button {
 
 @media (max-width: 640px) { 
   body {
-    padding: 2rem;
+    padding: 1rem;
   }
   .friend-item img {
-    max-width: 3.2rem;
+    max-width: 3.5rem;
   }
 
   .friend-item .friend-name {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
   }
 }
 
